@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Temperatura
+{
+    public static class ConversorTemperatura
+    {
+        public static double FahrenheitParaCelsius(double temperatura)
+            //=> (temperatura - 32) / 1.8; // Simulação de falha
+            => Math.Round((temperatura - 32) / 1.8, 2);
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.deps.json
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.dll
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\bin\Debug\net5.0\ConversorTemperatura.pdb
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.AssemblyInfo.cs
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.sourcelink.json
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.dll
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\refint\ConversorTemperatura.dll
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ConversorTemperatura.pdb
+C:\Users\Inteli\Desktop\codigos\ponderadas5\ponderadasemana5m10\ConversorTemperatura\obj\Debug\net5.0\ref\ConversorTemperatura.dll

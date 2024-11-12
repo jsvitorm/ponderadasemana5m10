@@ -1,15 +1,21 @@
-namespace TestesConversorTemperatura_NUnit;
+using NUnit.Framework;
 
-public class Tests
+namespace Temperatura.Testes
 {
-    [SetUp]
-    public void Setup()
+    public class TestesConversorTemperatura
     {
-    }
-
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+        [TestCase(32, 0)]
+        [TestCase(47, 8.33)]
+        [TestCase(86, 30)]
+        [TestCase(90.5, 32.5)]
+        [TestCase(120.18, 48.99)]
+        [TestCase(212, 100)]
+        public void TesteConversaoTemperatura(
+            double tempFahrenheit, double tempCelsius)
+        {
+            double valorCalculado =
+                ConversorTemperatura.FahrenheitParaCelsius(tempFahrenheit);
+            Assert.AreEqual(tempCelsius, valorCalculado);
+        }
     }
 }
